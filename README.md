@@ -2,8 +2,7 @@
 Indo-Pacific Deep Convection Favoring Pool <br />
 (Indo-Pacific Warm Pool defined with time-varied SST threshold)
 =====
-<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6331380.svg)](https://doi.org/10.5281/zenodo.6331380)<br /> -->
-
+[![DOI](https://zenodo.org/badge/520879810.svg)](https://zenodo.org/badge/latestdoi/520879810) <br />
 This repository contains the data of the time-varied SST threshold for deep convection (σ<sub>SST_conv</sub>) and Indo-Pacific Deep Convection Favoring Pool (DCFP).
 <br /> <br />
  
@@ -51,8 +50,10 @@ This repository contains the data of the time-varied SST threshold for deep conv
 If you use the GMM index in a publication or for any other purposes, please cite 
 <!--
 - Leung, J.CH., Qian, W., Zhang, P. et al. Geopotential-based Multivariate MJO Index: extending RMM-like indices to pre-satellite era. Clim Dyn (2022). https://doi.org/10.1007/s00382-022-06142-2
-- Zenodo archive: https://doi.org/10.5281/zenodo.6331379
 -->
+- Leung, J.CH., Zhang, B., Gan, Q. et al. On the differential expansion speeds of Indo-Pacific warm pool and deep convection favoring pool under greenhouse warming.  npj Climate and Atmospheric Science (under Review). 
+- Zenodo archive: https://doi.org/10.5281/zenodo.6977568
+
 <br /> 
 
 **References**
