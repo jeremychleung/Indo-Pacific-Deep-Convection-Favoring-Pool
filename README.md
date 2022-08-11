@@ -56,8 +56,18 @@ This repository contains the data of the time-varied SST threshold for deep conv
   - Columns: Convection intensity (defined based on average monthly precipitation)
 
 - **DCFP derived based on ERSSTv5 and GPCP**
-
+  - Description: Area (unit: 10<sup>7</sup> km<sup>2</sup>) of deep convection favoring pool (DCFP) defined by time-varied σ<sub>SST_conv</sub>), based on SST (from ERSST) and precipitation (GPCP).
+  - Location: [data/12-dcfp_ersst_gpcp.csv](https://github.com/jeremychleung/Indo-Pacific-Deep-Convection-Favoring-Pool/blob/main/data/12-dcfp_ersst_gpcp.csv)
+  - Temporal coverage: 1979-2020
+  - Rows: Year
+  - Columns: Convection intensity (defined based on average monthly precipitation)
+  
 - **DCFP derived based on HadISST and GPCP**
+  - Description: Area (unit: 10<sup>7</sup> km<sup>2</sup>) of deep convection favoring pool (DCFP) defined by time-varied σ<sub>SST_conv</sub>), based on SST (from HadISST) and precipitation (GPCP).
+  - Location: [data/12-dcfp_hadisst_gpcp.csv](https://github.com/jeremychleung/Indo-Pacific-Deep-Convection-Favoring-Pool/blob/main/data/12-dcfp_hadisst_gpcp.csv)
+  - Temporal coverage: 1979-2020
+  - Rows: Year
+  - Columns: Convection intensity (defined based on average monthly precipitation)
 
 - **DCFP derived based on 20 CMIP6 models**
   - Description: Area (unit: 10<sup>7</sup> km<sup>2</sup>) of deep convection favoring pool (DCFP) defined based on model-simulated time-varied σ<sub>SST_conv</sub>).
