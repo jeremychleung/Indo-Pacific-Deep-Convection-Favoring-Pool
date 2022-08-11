@@ -37,11 +37,17 @@ This repository contains the data of the time-varied SST threshold for deep conv
   - Temporal coverage: 1979–2013
 -->
 - σ<sub>SST_conv</sub> derived based on ERSSTv5 and GPCP
-  - Location: [data/gmm_index_erai.csv](https://github.com/jeremychleung/Geopotential-based-Multivariate-MJO-Index/blob/main/data/gmm_index_erai.csv)
+  - Description: Time-varied SST threshold (σ<sub>SST_conv</sub>) for deep convection of intensity, derived based on SST (from ERSSTv5) and precipitation (GPCP).
+  - Location: [data/02-sst_threshold_ersst_gpcp.nc](https://github.com/jeremychleung/Indo-Pacific-Deep-Convection-Favoring-Pool/blob/main/data/02-sst_threshold_ersst_gpcp.nc)
   - Temporal coverage: 1979–2020
+  - Rows: Year
+  - Columns: Convection intensity (defined based on average monthly precipitation)
 - σ<sub>SST_conv</sub> derived based on HadISST and GPCP
-  - Location: [ ]( )
+  - Description: Time-varied SST threshold for deep convection (σ<sub>SST_conv</sub>) derived based on SST (from HadISST) and precipitation (GPCP).
+  - Location: [data/02-sst_threshold_hadisst_gpcp.nc](https://github.com/jeremychleung/Indo-Pacific-Deep-Convection-Favoring-Pool/blob/main/data/02-sst_threshold_hadisst_gpcp.nc)
   - Temporal coverage: 1979–2020
+  - Rows: Year
+  - Columns: Convection intensity (defined based on average monthly precipitation)
 <br /> 
   
 
