@@ -29,7 +29,7 @@ This repository contains the data of the time-varied SST threshold for deep conv
 - Please refer to [Leung et al. (2022)](https://doi.org/ ) for more detail about the calculation procedure and the science behind it.
  <br /> 
  
-**Files**
+**Data files**
 -----
 - **σ<sub>SST_conv</sub> derived based on ERSSTv5 and GPCP**
   - Description: Time-varied SST threshold (σ<sub>SST_conv</sub>, unit: °C) for deep convection of intensity, derived based on SST (from ERSSTv5) and precipitation (GPCP).
