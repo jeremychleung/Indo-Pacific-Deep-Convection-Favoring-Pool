@@ -90,7 +90,7 @@ If you use the GMM index in a publication or for any other purposes, please cite
 - Leung, J.CH., Qian, W., Zhang, P. et al. Geopotential-based Multivariate MJO Index: extending RMM-like indices to pre-satellite era. Clim Dyn (2022). https://doi.org/10.1007/s00382-022-06142-2
 -->
 - Leung, J.CH., Zhang, B., Gan, Q. et al. On the differential expansion speeds of Indo-Pacific warm pool and deep convection favoring pool under greenhouse warming.  npj Climate and Atmospheric Science (under Review). 
-- Zenodo archive: https://doi.org/10.5281/zenodo.6977568
+- Zenodo archive: https://doi.org/10.5281/zenodo.6977567
 
 <br /> 
 
